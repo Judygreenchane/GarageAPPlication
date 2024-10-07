@@ -171,7 +171,7 @@ namespace GarageAPP
             Console.WriteLine("Please navigate through the menu by inputting the number \n(1, 2, 3 ,4, 5, 0) of your choice"
                      + "\n1. Parking of Vehicle(via registration number)"
                      + "\n2. List all vehicles in the Garage"
-                     + "\n3  Remove vehicles from the garage (via registration number)"
+                     + "\n3  Remove vehicles from the garage (via Registration Number)"
                      + "\n4. Search for vehicles"
                      + "\n5.List vehicle types and number of each"
                      + "\n0. Exit the application");
